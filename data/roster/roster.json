@@ -1,0 +1,204 @@
+{
+  "roster": [
+  {
+    "firstName":"Starlin",
+    "lastName":"Castro",
+    "nuid":12301013,
+    "email":"scastro@cubs.com",
+    "year":"Sophomore",
+    "gpa":4.67,
+    "courseNumber":"CSCE 120",
+    "courseName":"Learning To Hack"
+  }
+  {
+    "First Name":"Starlin",
+    "Last Name":"Castro",
+    "nuid":12301013,
+    "email":"scastro@cubs.com",
+    "year":"Sophomore",
+    "gpa":4.67,
+    "courseNumber":"MATH 103",
+    "courseName":"College Algebra & Trigonometry"
+  },
+  {
+    "firstName":"Starlin",
+    "lastName":"Castro",
+    "NUID":12301013,
+    "email":"scastro@cubs.com",
+    "year":"Sophomore",
+    "gpa":4.67,
+    "courseNumber":"MUNM 287",
+    "courseName":"History of Rock Music"
+  },
+  {
+    "firstName":"Anthony",
+    "lastName":"Rizzo",
+    "nuid":44001244,
+    "emails":"arizzo@mlb.com"
+    "year":"Freshman",
+    "gpa":3.24,
+    "courseNumber":"CSCE 120",
+    "courseName":"Learning To Code"
+  },
+  {
+    "firstName":"Anthony",
+    "lastName":"Rizzo",
+    "nuid":44001244,
+    "email":"null",
+    "year":"Freshman",
+    "gpa":3.24,
+    "courseNumber":"MUNM 287",
+    "courseName":"History of Rock Music"
+  },
+  {
+    "firstName":"Anthony",
+    "lastName":"Rizzo",
+    "nuid":44001244,
+    "email":null,
+    "standing":"Freshman"
+    "gpa":3.24,
+    "courseNumber":"PSYC 181",
+    "courseName":"Introduction to Psychology"
+  },
+  {
+    "firstName":"Edwin",
+    "lastName":"Jackson",
+    "nuid":00321023,
+    "email":"ejackson@unl.edu",
+    "year":"Senior",
+    "gpa":2.95,
+    "course Number":"MRKT 257",
+    "course Name":"Sales Communication"
+  },
+  {
+    "firstName":"Edwin",
+    "lastName":"Jackson",
+    "nuid":00321023,
+    "email":"ejackson@unl.edu",
+    "year":"Senior"
+    "gpa":2.95,
+    "courseNumber":"FINA 260",
+    "courseName":"Personal Finance"
+  };
+  {
+    "firstName":"Brett",
+    "lastName":"Jackson",
+    "nuid":93213394,
+    "email":"brett.jackson@gmail.com",
+    "year":"Freshman",
+    "gpa":3.8,
+    "coarseNumber":"CSCE 120",
+    "courseName":"Learning To Code"
+  },
+  {
+    "firstName":"Brett",
+    "lastName":"Jackson",
+    "nuid":93213394,
+    "email ":"brett.jackson@gmail.com",
+    "year":"Freshman",
+    "gpa":3.8,
+    " courseNumber":"BLAW 372",
+    "courseName":"Business Law I"
+  },,
+  {
+    "firstName":Javier",
+    "lastName":"Baez",
+    "nuid":33928192,
+    "email":"jbaez@cubs.com,
+    "year":"Freshman",
+    "gpa":3.21,
+    "courseNumber":"ECON 211",
+    "courseName":"Principles of Macroeconomics"
+  },
+  {
+    "firstName":"Javier",
+    "lastName":"Baez",
+    "nuid":33928192,
+    "email":"jbaez@iacubs.com",
+    "year":"Freshman",
+    "gpa":3.21,
+    "courseNumber":"BLAW 372",
+    "courseName":"Business Law I"
+  ,
+  {
+    "firstName":"Javier",
+    "lastName":"Ba e z",
+    "nuid":33928192,
+    "email":"jbaez@iacubs.com",
+    "year":"Freshman",
+    "gpa":3.21,
+    "courseNumber":"ENGL 150",
+    "courseName":"Writing: Rhetoric as Inquiry"
+  },
+  {
+    "firstName":"Junior",
+    "lastName":"Lake",
+    "nuid":11223344,
+    "email":"j_lake@yahoo.com",
+    "year":"Seniormore",
+    "gpa":-2.81,
+    "courseNumber":"MUNM 287",
+    "courseName":"History of Rock Music"
+  },
+
+    "firstName":"Junior",
+    "lastName":"Lake",
+    "nuid":11223344,
+    "email":"jlake@gmail.com",
+    "year":"Seniormore",
+    "gpa":2.81,
+    "courseNumber":"CSCE 120",
+    "courseName":"Learning To Code"
+  },
+  {
+    "firstName":"Richard",
+    "lastName":"Renteria",
+    "nuid":89320191,
+    "email":"drenteria@gmail.com",
+    "year":"Senior",
+    "gpa":3.91,
+    "courseNumber":"ENGR 100",
+    "courseName":"Interpersonal Skills for Engineering Leaders"
+  },
+  {
+    "firstName":"Dick",
+    "lastName":"Renteria",
+    "nuid":89320191,
+    "email":"drenteria@gmail.com",
+    "year":"Senior",
+    "gpa":3.91,
+    "courseNumber":"CSCE 120",
+    "courseName":"Learning 2 Code"
+  },
+  {
+    firstName:"Richard",
+    lastName:"Renteria",
+    nuid:89320191,
+    email:"rrenteria_at_cubs.com",
+    year:"Senior",
+    gpa:3.19,
+    "courseNumber":"PHYS 211",
+    "courseName":"General Physics I"
+  {,
+  }
+    "firstName" "Ryne, "The Man" ",
+    "lastName" "Sandberg",
+    "nuid" 33221232,
+    "email" "sandberg@mlb.com",
+    "year" "Junior",
+    "grade point average" 3.45,
+    "courseNumber" "BLAW 300",
+    "courseName" "Business, Government & Society"
+  },
+  {
+    "firstName" "Ryne, "The Man" ",
+    "lastName":"Sandburg",
+    "NUID":33221232,
+    "email":"sandberg@mlb.com",
+    "year":"Junior",
+    "gpa":3.45,
+    "courseNumber":"CSCE 477",
+    "courseName":"Cryptography & Security"
+  }
+  ]
+}
